@@ -12,7 +12,6 @@ using Microsoft.Extensions.Logging;
 
 namespace ContosoUniversity
 {
-    //test
     public class Program
     {
         public static void Main(string[] args)
